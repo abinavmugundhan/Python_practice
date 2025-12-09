@@ -1,0 +1,9 @@
+def cinema():
+    movie = "kuruvi"
+    def vijay():
+        print("the movie actor of",movie,"is vijay")
+        x = type(movie)
+        print(x)
+        print(type(movie))
+    vijay()
+cinema()
